@@ -65,4 +65,6 @@ if uploaded_file is not None:
     # Print prediction and confidence score
     st.write(f'Class: {class_name[2:]}')
     st.write(f"Confidence Score:{confidence_score}")
+
+#for run streamlit file on browser use treminal command streamlit run app.py
    
