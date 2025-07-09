@@ -39,3 +39,5 @@ eAuto/
 ├── keras_model.h5          # Trained model from Teachable Machine
 ├── labels.txt              # Class labels for the model
 └── README.md               # You're reading this :)
+
+#for run streamlit file on browser use treminal command streamlit run app.py
