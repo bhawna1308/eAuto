@@ -40,4 +40,6 @@ eAuto/
 ├── labels.txt              # Class labels for the model
 └── README.md               # You're reading this :)
 
-#for run streamlit file on browser use treminal command streamlit run app.py
+## Run file
+
+#for run streamlit file on browser use treminal command 'streamlit run app.py'
