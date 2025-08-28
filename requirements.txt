@@ -1,6 +1,7 @@
-tensorflow==2.12.0
 streamlit
+tensorflow==2.12.0
 scikit-learn
 pillow
 joblib
 setuptools
+h5py
