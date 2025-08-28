@@ -1,12 +1,6 @@
-
-# Core ML + Deep Learning
-tensorflow==2.20.0
-numpy==1.23.5
-h5py==3.8.0
-
-# Image handling
-pillow==9.5.0
-
-# Web app
-streamlit==1.22.0
-
+streamlit
+tensorflow>=2.20.0
+scikit-learn
+pillow
+joblib
+setuptools
